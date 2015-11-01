@@ -1,0 +1,10 @@
+Package: com.naken.notificatcher
+Name: Notificatcher
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Record some notifications into syslog for debugging.
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
+Homepage: http://iosre.com

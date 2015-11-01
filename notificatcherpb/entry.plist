@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NotificatcherPB;
+	cell = PSLinkCell;
+	detail = NotificatcherPBListController;
+	icon = "icon.png";
+	isController = 1;
+	label = Notificatcher;
+    };
+}
